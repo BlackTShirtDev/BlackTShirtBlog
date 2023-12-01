@@ -14,7 +14,7 @@ OUTPUT_PATH = 'output'
 # --------------8<---------------------
 # Theme
 
-THEME = 'flex'
+THEME = 'simple-boostrap'
 # https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3
 
 # --------------8<---------------------
